@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for the pwComment extension in the FRONTEND</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">pwComments plugin</label>
+			<label index="pi1_plus_wiz_description">Powerful extension for providing comments, including replies on comments and voting.</label>
+
+			<label index="tt_content.pi_flexform.sheet_general">General</label>
+			<label index="tt_content.pi_flexform.label_action">Select action</label>
+			<label index="tt_content.pi_flexform.label_action_index">Index</label>
+			<label index="tt_content.pi_flexform.label_action_new">New</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">pwComments plugin</label>
+			<label index="pi1_plus_wiz_description">Mächtige Extension für Kommentare, inklusive Antworten und Bewertung.</label>
+
+			<label index="tt_content.pi_flexform.sheet_general">Allgemein</label>
+			<label index="tt_content.pi_flexform.label_action">Aktion auswählen</label>
+			<label index="tt_content.pi_flexform.label_action_index">Liste</label>
+			<label index="tt_content.pi_flexform.label_action_new">Neu</label>
+		</languageKey>
+	</data>
+</T3locallang>

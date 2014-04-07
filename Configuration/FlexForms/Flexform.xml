@@ -1,0 +1,35 @@
+<T3DataStructure>
+	<meta>
+		<langDisable>1</langDisable>
+	</meta>
+	<sheets>
+		<sDEF>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:jh_pwcomments_plugin/Resources/Private/Language/locallang.xml:tt_content.pi_flexform.sheet_general</sheetTitle>
+				</TCEforms>
+				<type>array</type>
+				<el>
+					<switchableControllerActions>
+						<TCEforms>
+							<label>LLL:EXT:jh_pwcomments_plugin/Resources/Private/Language/locallang.xml:tt_content.pi_flexform.label_action</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="1" type="array">
+										<numIndex index="0">LLL:EXT:jh_pwcomments_plugin/Resources/Private/Language/locallang.xml:tt_content.pi_flexform.label_action_index</numIndex>
+										<numIndex index="1">Comment->index</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">LLL:EXT:jh_pwcomments_plugin/Resources/Private/Language/locallang.xml:tt_content.pi_flexform.label_action_new</numIndex>
+										<numIndex index="1">Comment->new;Comment->create</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</switchableControllerActions>
+				</el>
+			</ROOT>
+		</sDEF>
+	</sheets>
+</T3DataStructure>
